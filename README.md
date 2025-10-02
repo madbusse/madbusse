@@ -1,7 +1,17 @@
-## Hey, GitHub! ⚡🤖
+## Hey, GitHub! ⚡
 
-Welcome to my corner of the web :)
+I'm Madeline, and I'm passionate about harnessing AI and technology to build game-changing solutions for top-tier clients. Currently, I'm combining my tech skills with my passion for running (I've done 2 marathons and am currently training for Austin!) by building automation solutions for Nike's integrated media team. 
 
-My name is Madeline, and I'm a software engineer with experience across research labs, start-ups, and agencies. I double-majored in Computer Science and Philosophy and am passionate about infusing technology with creativity and ethical awareness.
+Featured Projects:
 
-Check out [my website](https://madbusse.com/) for more!
+👟[Nike Automations](https://github.com/madbusse/nike_automations)
+- YoY Data Comp Bot
+- Jordan Data Reporter
+
+🦾[Dancebot](https://github.com/madbusse/dancebot)
+- Harnessing AI/ML to enable a TurtleBot to [bust some moves](https://www.youtube.com/watch?v=dN4DkEUt5Js).
+
+💻[My Website](https://github.com/madbusse/website), which you can visit [here](https://madbusse.com).
+- I started with an [HTML5 UP](https://html5up.net) design template, customized the JavaScript/HTML/CSS, then used AWS (Route53, S3, CloudFront, Certificate Manager) to host it securely. 
+
+Feel free to poke around and reach me at madbusse@gmail.com. ✌️
