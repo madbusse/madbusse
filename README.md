@@ -4,14 +4,14 @@ I'm Madeline, and I'm passionate about harnessing AI and technology to build gam
 
 Featured Projects:
 
-👟[Nike Automations](https://github.com/madbusse/nike_automations)
+👟 [Nike Automations](https://github.com/madbusse/nike_automations)
 - YoY Data Comp Bot
 - Jordan Data Reporter
 
-🦾[Dancebot](https://github.com/madbusse/dancebot)
+🦾 [Dancebot](https://github.com/madbusse/dancebot)
 - Harnessing AI/ML to enable a TurtleBot to [bust some moves](https://www.youtube.com/watch?v=dN4DkEUt5Js).
 
-💻[My Website](https://github.com/madbusse/website), which you can visit [here](https://madbusse.com).
+💻 [My Website](https://github.com/madbusse/website), which you can visit [here](https://madbusse.com).
 - I started with an [HTML5 UP](https://html5up.net) design template, customized the JavaScript/HTML/CSS, then used AWS (Route53, S3, CloudFront, Certificate Manager) to host it securely. 
 
 Feel free to poke around and reach me at madbusse@gmail.com. ✌️
