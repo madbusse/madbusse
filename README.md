@@ -1,6 +1,6 @@
 ## Hey, GitHub! ⚡
 
-**I'm Madeline, and I'm passionate about harnessing AI and technology to build game-changing solutions for top-tier clients.** Currently, I'm combining my tech skills with my passion for running (I've done 2 marathons and am currently training for Austin!) by building automation solutions for Nike's integrated media team. 
+**I'm Madeline, and I'm passionate about harnessing AI and technology to build game-changing solutions for top-tier clients.** Currently, I'm combining my tech skills with my passion for running (I've done 2 marathons) by building automation solutions for Nike's integrated media team. 
 
 Featured Projects:
 
