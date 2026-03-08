@@ -4,9 +4,11 @@
 
 _Featured Projects:_
 
-👟 [Nike Automations](https://github.com/madbusse/nike_automations)
-- YoY Data Comp Bot
-- Jordan Data Reporter
+📈 [Serverless Stock Pipeline](https://github.com/madbusse/serverless-stocks-pipeline)
+- AWS infrastructure as code (Terraform, lambda, DynamoDB, S3), played around with Amazon Q Agent
+- Finnhub API (free tier) to get stock data for hot stocks (AAPL, MSFT, GOOGL, AMZN, TSLA) and evaluate which fluctuated the most in a given day
+- Utilized Jira MCP to increase efficiency of agentic coding workcycle
+- [webpage here](http://stocks-pipeline-frontend-dev-058264078572.s3-website-us-east-1.amazonaws.com/)
 
 🦾 [Dancebot](https://github.com/madbusse/dancebot)
 - Harnessing AI/ML to enable a TurtleBot to [bust some moves](https://www.youtube.com/watch?v=dN4DkEUt5Js).
