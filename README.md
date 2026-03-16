@@ -4,6 +4,11 @@
 
 _Featured Projects:_
 
+🎨 [Asset Generation Pipeline](https://github.com/madbusse/asset-generation-pipeline/tree/main)
+- GSuite infrastructure to generate ad asset variations
+- Utilizes Nano Banana for image generation
+- User-friendly, Sheets-native UI
+
 📈 [Serverless Stock Pipeline](https://github.com/madbusse/serverless-stocks-pipeline)
 - AWS infrastructure as code (Terraform, lambda, DynamoDB, S3), played around with Amazon Q Agent
 - Finnhub API (free tier) to get stock data for hot stocks (AAPL, MSFT, GOOGL, AMZN, TSLA) and evaluate which fluctuated the most in a given day
