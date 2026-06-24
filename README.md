@@ -9,7 +9,7 @@ _Featured Projects:_
 - Utilizes Nano Banana for image generation
 - User-friendly, Sheets-native UI
 
-📈 [Serverless Stock Pipeline](https://github.com/madbusse/serverless-stocks-pipeline)
+📈 [Serverless Stock Pipeline](https://github.com/madbusse/stocks-serverless-pipeline)
 - AWS infrastructure as code (Terraform, lambda, DynamoDB, S3), played around with Amazon Q Agent
 - Finnhub API (free tier) to get stock data for hot stocks (AAPL, MSFT, GOOGL, AMZN, TSLA) and evaluate which fluctuated the most in a given day
 - Utilized Jira MCP to increase efficiency of agentic coding workcycle
